@@ -82,7 +82,7 @@ vim docker-compose.yml
 # Conectar ao Github
 Gerar sua chave
 ```bash
-ssh-keygen -t rsa -b 4096 -C "seu_email do git"
+ssh-keygen -t rsa -b 4096 -C "jean.erick1710@gmail.com"
 ```
 Inicie o ssh-agent no fundo
 ```bash
