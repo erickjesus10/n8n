@@ -97,7 +97,7 @@ services:
 
       N8N_ENCRYPTION_KEY: "b3f9c8a1e5d74f0a9b7c6d1f2e8a3c4d"
       N8N_HOST: n8n.local
-      WEBHOOK_URL: http://192.168.1.63:5679
+      WEBHOOK_URL: http://localhost:5679
       GENERIC_TIMEZONE: America/Sao_Paulo
       N8N_SECURE_COOKIE: false
     volumes:
